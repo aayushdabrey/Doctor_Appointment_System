@@ -133,7 +133,7 @@ You'll get a structured response and updated availability in the CSV file.
 
 ---
 
-## 👨‍💻 Made by Abhay
+## 👨‍💻 Made by Aayush Dabrey
 
 I built this project to explore how **LangGraph**, **LangChain**, and **FastAPI** can work together in a practical, real-world use case. It’s a great way to combine conversational AI and stateful workflows — and honestly, it’s been a fun challenge!
 
