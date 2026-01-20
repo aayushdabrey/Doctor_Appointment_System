@@ -1,0 +1,38 @@
+## you can try these questions in FastAPI interface
+## one example for each type
+{
+  "data": {
+    "question": "I want to know is  doctor john doe available  on 09-08-2024 "
+
+  }
+}
+
+{
+  "data": {
+    "question": "I want to know is there any general_dentist available on 09-08-2024",
+    
+  }
+}
+
+{
+  "data": {
+    "question": "I want to set session with doctor john doe on 09-08-2024 13:00",
+    "user_id": 1000041
+  }
+}
+
+{
+  "data": {
+    question:"I want to cancel session with doctor john doe on 09-08-2024 13:00",
+    "user_id": 1000041
+  }
+}
+
+{
+  "data": {
+    question:"I want to reschedule  session with doctor john doe on  08-08-2024 10:00 which was held on 08-08-2024 10:30",
+    "user_id": 1000030.0
+  }
+}
+
+
